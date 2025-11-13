@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+WAHOO: Boom Shaka Laka Laka
 ---
 
